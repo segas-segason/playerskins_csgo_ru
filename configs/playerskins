@@ -1,0 +1,16 @@
+"mapskins"
+{
+	"de_aztec"
+	{
+		"CT"
+		{
+			"Skin"		"models/player/custom_player/kuristaja/vader/vader.mdl"
+			"Arms"		"models/player/custom_player/kuristaja/vader/vader_arms.mdl"
+		}
+		"T"
+		{
+			"Skin"		"models/player/custom_player/kuristaja/vader/vader.mdl"
+			"Arms"		"models/player/custom_player/kuristaja/vader/vader_arms.mdl"
+		}
+	}
+}
